@@ -1,0 +1,17 @@
+.status {
+  border-radius: 15px;
+}
+.status span {
+  margin-left: 8px;
+}
+.dipojit {
+  background-color: salmon;
+}
+
+.withdraw {
+  background-color: slateblue;
+}
+
+.balance {
+  background-color: orange;
+}
