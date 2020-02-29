@@ -15,3 +15,6 @@
 .balance {
   background-color: orange;
 }
+#main-aria {
+  display: none;
+}
